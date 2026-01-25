@@ -1,0 +1,20 @@
+backend:
+  name: git-gateway
+  branch: main
+publish_mode: editorial_workflow
+media_folder: "src/images/thumbnails"
+public_folder: "/images/thumbnails"
+collections:
+  - name: "thumbnails"
+    label: "Thumbnails"
+    folder: "src/thumbnails"
+    slug: "{{slug}}"
+    create: true
+    delete: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image Caption", name: "imageCaption", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "Categories", name: "categories", widget: "list", allow_add: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true}

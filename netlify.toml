@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/cheese"
+  to = "/about-us"
+  status = 301
+  force = false
+  query = {path = ":path"}

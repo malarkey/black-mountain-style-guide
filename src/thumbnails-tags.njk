@@ -1,0 +1,13 @@
+---
+pagination:
+  data: collections.thumbnailTags
+  size: 1
+  alias: currentTag
+  addAllPagesToCollections: true
+permalink: "thumbnails/tag/{{ currentTag | slug }}/"
+layout: layouts/thumbnails.html
+eleventyComputed:
+  title: "Tagged with: {{ currentTag }}"
+---
+
+{# This template is used to generate tag pages #}

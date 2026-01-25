@@ -1,0 +1,86 @@
+{% set assetHash = global.random() %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+{% include "partials/head.html" %}
+
+<body id="{{ site.siteID }}">
+
+{% include "partials/header.html" %}
+
+<div id="container">
+
+<aside>
+<nav>
+<h3>Categories</h3>
+<ul class="alt-">
+{% for category in collections.thumbnailCategories %}
+<li>
+  <a href="/thumbnails/category/{{ category | slug }}/"{% if category == currentCategory %} class="active"{% endif %}>
+    {{ category }}
+  </a>
+</li>
+{% endfor %}
+</ul>
+
+<hr>
+
+<h3>Tags</h3>
+<ul class="alt-">
+{% for tag in collections.thumbnailTags %}
+<li>
+  <a href="/thumbnails/tag/{{ tag | slug }}/"{% if tag == currentTag %} class="active"{% endif %}>
+    {{ tag }}
+  </a>
+</li>
+{% endfor %}
+</ul>
+</nav>
+</aside>
+
+<main>
+
+<h1>{{ title }}</h1>
+
+{# Determine which thumbnails to show #}
+{% if currentCategory %}
+  {% set filteredThumbnails = collections.thumbnails | filterThumbnailsByCategory(currentCategory) %}
+  {% set count = filteredThumbnails.length %}
+  <p>Showing {{ count }} thumbnail{% if count != 1 %}s{% endif %} in "{{ currentCategory }}"</p>
+{% elseif currentTag %}
+  {% set filteredThumbnails = collections.thumbnails | filterThumbnailsByTag(currentTag) %}
+  {% set count = filteredThumbnails.length %}
+  <p>Showing {{ count }} thumbnail{% if count != 1 %}s{% endif %} tagged "{{ currentTag }}"</p>
+{% else %}
+  {% set count = collections.thumbnails.length %}
+  <p>Showing {{ count }} thumbnail{% if count != 1 %}s{% endif %}</p>
+{% endif %}
+
+{% if count > 0 %}
+<div class="layout" data-content="sn-thumbnails">
+  {% if currentCategory or currentTag %}
+    {# Show filtered thumbnails #}
+    {% set entries = filteredThumbnails %}
+    {% include "partials/thumbnails-display.html" %}
+  {% else %}
+    {# Show all thumbnails #}
+    {% set entries = collections.thumbnails %}
+    {% include "partials/thumbnails-display.html" %}
+  {% endif %}
+</div><!-- layout -->
+{% else %}
+<p>No thumbnails found.</p>
+{% endif %}
+
+{% if currentCategory or currentTag %}
+<p><a href="/thumbnails/" class="btn">← Back to all thumbnails</a></p>
+{% endif %}
+
+</main>
+
+</div><!-- container -->
+
+{% include "partials/footer.html" %}
+</body>
+</html>

@@ -1,0 +1,50 @@
+{% set assetHash = global.random() %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+{% include "partials/head.html" %}
+
+<body id="{{ site.siteID }}">
+
+{% include "partials/header.html" %}
+
+<div id="container">
+
+<aside>
+<div id="banner-logo">
+<h1><img src="/images/logo.svg" alt=""> <span data-visibility="hidden">Black Mountain Honey</span></h1>
+</div><!-- banner-logo -->
+
+<nav>
+<ul>
+<li><a href="#sn-branding">Branding</a></li>
+<li><a href="#sn-colour">Colour</a></li>
+<li><a href="#sn-typography">Typography</a></li>
+<li><a href="#sn-scale">Scale</a></li>
+<li><a href="#sn-headings">Headings</a></li>
+<li><a href="#sn-paragraphs">Paragraphs</a></li>
+<li><a href="#sn-quotations">Quotations</a></li>
+<li><a href="#sn-lists">Lists</a></li>
+<li><a href="#sn-numerals-symbols">Numerals</a></li>
+<li><a href="#sn-forms">Forms</a></li>
+<li><a href="#sn-buttons">Buttons</a></li>
+<li><a href="#sn-tables">Tables</a></li>
+<li><a href="#sn-media">Media</a></li>
+<li><a href="#sn-components">Components</a></li>
+</ul>
+</nav>
+</aside>
+
+<main>
+{% block content %}
+{{ content | safe }}
+{% endblock %}
+</main>
+
+</div><!-- container -->
+
+{% include "partials/footer.html" %}
+</body>
+
+</html>

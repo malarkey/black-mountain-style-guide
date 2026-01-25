@@ -1,0 +1,32 @@
+{
+  "name": "eleventy-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+ "scripts": {
+  "start": "npx @11ty/eleventy --serve",
+  "build": "ELEVENTY_ENV=production npx @11ty/eleventy"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxray/11ty2025"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hankchizljaw/eleventy-from-scratch/issues"
+  },
+  "homepage": "https://github.com/hankchizljaw/eleventy-from-scratch#readme",
+  "dependencies": {
+    "@11ty/eleventy-cache-assets": "^2.0.2",
+    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "linkedom": "^0.14.12",
+    "moment": "^2.26.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "browser-sync": "^3.0.4"
+  }
+}

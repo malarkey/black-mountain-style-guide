@@ -1,0 +1,13 @@
+---
+pagination:
+  data: collections.thumbnailCategories
+  size: 1
+  alias: currentCategory
+  addAllPagesToCollections: true
+permalink: "thumbnails/category/{{ currentCategory | slug }}/"
+layout: layouts/thumbnails.html
+eleventyComputed:
+  title: "{{ currentCategory }} thumbnails"
+---
+
+{# This template is used to generate category pages #}
