@@ -164,11 +164,33 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/dist\/images\/social\/instagram-landscape.webp" : {
+      "ft" : 8388608,
+      "iS" : 506212,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-landscape.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/instagram-landscape@1x.webp" : {
       "ft" : 8388608,
       "iS" : 506212,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-landscape@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-profile-photo.webp" : {
+      "ft" : 8388608,
+      "iS" : 7758,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-profile-photo.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -186,11 +208,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/instagram-square.webp" : {
+      "ft" : 8388608,
+      "iS" : 851738,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-square.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/instagram-square@1x.webp" : {
       "ft" : 8388608,
       "iS" : 851738,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-square@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-stories-reels-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 1585326,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-stories-reels-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -208,11 +252,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/instagram-stories-reels-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 1570662,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-stories-reels-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/instagram-stories-reels-2@1x.webp" : {
       "ft" : 8388608,
       "iS" : 1570662,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-stories-reels-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-vertical.webp" : {
+      "ft" : 8388608,
+      "iS" : 1089448,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-vertical.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -230,11 +296,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/tiktok-landscape-ad.webp" : {
+      "ft" : 8388608,
+      "iS" : 1968246,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-landscape-ad.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/tiktok-landscape-ad@1x.webp" : {
       "ft" : 8388608,
       "iS" : 1968246,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-landscape-ad@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-profile-photo.webp" : {
+      "ft" : 8388608,
+      "iS" : 9316,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-profile-photo.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -252,11 +340,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/tiktok-square-ad.webp" : {
+      "ft" : 8388608,
+      "iS" : 432476,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-square-ad.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/tiktok-square-ad@1x.webp" : {
       "ft" : 8388608,
       "iS" : 459696,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-square-ad@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-stories-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 1808672,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-stories-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -274,11 +384,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/tiktok-stories-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 1790318,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-stories-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/tiktok-stories-2@1x.webp" : {
       "ft" : 8388608,
       "iS" : 1790318,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-stories-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-vertical.webp" : {
+      "ft" : 8388608,
+      "iS" : 1767012,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-vertical.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -296,11 +428,44 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/youtube-anatomy.webp" : {
+      "ft" : 8388608,
+      "iS" : 986592,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-anatomy.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-banner-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 3376274,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-banner-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/youtube-banner-1@1x.webp" : {
       "ft" : 8388608,
       "iS" : 3372026,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-banner-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-banner-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 3341978,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-banner-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -318,11 +483,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/youtube-profile-photo.webp" : {
+      "ft" : 8388608,
+      "iS" : 15048,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-profile-photo.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/youtube-profile-photo@1x.webp" : {
       "ft" : 8388608,
       "iS" : 15048,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-profile-photo@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-video-thumbnail-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 902566,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -340,6 +527,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/youtube-video-thumbnail-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 882286,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/youtube-video-thumbnail-2@1x.webp" : {
       "ft" : 8388608,
       "iS" : 877402,
@@ -351,11 +549,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/dist\/images\/social\/youtube-video-thumbnail-3.webp" : {
+      "ft" : 8388608,
+      "iS" : 850634,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-3.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/social\/youtube-video-thumbnail-3@1x.webp" : {
       "ft" : 8388608,
       "iS" : 844964,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-3@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-video-thumbnail-4.webp" : {
+      "ft" : 8388608,
+      "iS" : 834938,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-4.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -425,6 +645,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dist\/social\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/social\/index.html",
+      "oF" : 0
+    },
     "\/dist\/thumbnails\/category\/instagram\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -471,6 +699,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dist\/thumbnails\/tag\/youtube\/index.html",
+      "oF" : 0
+    },
+    "\/dist\/voice-and-tone\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/voice-and-tone\/index.html",
       "oF" : 0
     },
     "\/gulpfile.js" : {
@@ -617,6 +853,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/src\/_includes\/layouts\/thumbnails.html",
+      "oF" : 0
+    },
+    "\/src\/_includes\/layouts\/voice-and-tone.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/_includes\/layouts\/voice-and-tone.html",
       "oF" : 0
     },
     "\/src\/_includes\/partials\/footer.html" : {
@@ -861,209 +1105,220 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/src\/images\/social\/instagram-landscape@1x.webp" : {
+    "\/src\/images\/social\/instagram-landscape.webp" : {
       "ft" : 8388608,
       "iS" : 506212,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/instagram-landscape@1x.webp",
+      "oAP" : "\/src\/images\/social\/instagram-landscape.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/instagram-profile-photo@1x.webp" : {
+    "\/src\/images\/social\/instagram-profile-photo.webp" : {
       "ft" : 8388608,
       "iS" : 7758,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/instagram-profile-photo@1x.webp",
+      "oAP" : "\/src\/images\/social\/instagram-profile-photo.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/instagram-square@1x.webp" : {
+    "\/src\/images\/social\/instagram-square.webp" : {
       "ft" : 8388608,
       "iS" : 851738,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/instagram-square@1x.webp",
+      "oAP" : "\/src\/images\/social\/instagram-square.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/instagram-stories-reels-1@1x.webp" : {
+    "\/src\/images\/social\/instagram-stories-reels-1.webp" : {
       "ft" : 8388608,
       "iS" : 1585326,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/instagram-stories-reels-1@1x.webp",
+      "oAP" : "\/src\/images\/social\/instagram-stories-reels-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/instagram-stories-reels-2@1x.webp" : {
+    "\/src\/images\/social\/instagram-stories-reels-2.webp" : {
       "ft" : 8388608,
       "iS" : 1570662,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/instagram-stories-reels-2@1x.webp",
+      "oAP" : "\/src\/images\/social\/instagram-stories-reels-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/instagram-vertical@1x.webp" : {
+    "\/src\/images\/social\/instagram-vertical.webp" : {
       "ft" : 8388608,
       "iS" : 1089448,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/instagram-vertical@1x.webp",
+      "oAP" : "\/src\/images\/social\/instagram-vertical.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/tiktok-landscape-ad@1x.webp" : {
+    "\/src\/images\/social\/tiktok-landscape-ad.webp" : {
       "ft" : 8388608,
       "iS" : 1968246,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/tiktok-landscape-ad@1x.webp",
+      "oAP" : "\/src\/images\/social\/tiktok-landscape-ad.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/tiktok-profile-photo@1x.webp" : {
+    "\/src\/images\/social\/tiktok-profile-photo.webp" : {
       "ft" : 8388608,
       "iS" : 9316,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/tiktok-profile-photo@1x.webp",
+      "oAP" : "\/src\/images\/social\/tiktok-profile-photo.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/tiktok-square-ad@1x.webp" : {
+    "\/src\/images\/social\/tiktok-square-ad.webp" : {
       "ft" : 8388608,
-      "iS" : 459696,
+      "iS" : 432476,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/tiktok-square-ad@1x.webp",
+      "oAP" : "\/src\/images\/social\/tiktok-square-ad.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/tiktok-stories-1@1x.webp" : {
+    "\/src\/images\/social\/tiktok-stories-1.webp" : {
       "ft" : 8388608,
       "iS" : 1808672,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/tiktok-stories-1@1x.webp",
+      "oAP" : "\/src\/images\/social\/tiktok-stories-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/tiktok-stories-2@1x.webp" : {
+    "\/src\/images\/social\/tiktok-stories-2.webp" : {
       "ft" : 8388608,
       "iS" : 1790318,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/tiktok-stories-2@1x.webp",
+      "oAP" : "\/src\/images\/social\/tiktok-stories-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/tiktok-vertical@1x.webp" : {
+    "\/src\/images\/social\/tiktok-vertical.webp" : {
       "ft" : 8388608,
       "iS" : 1767012,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/tiktok-vertical@1x.webp",
+      "oAP" : "\/src\/images\/social\/tiktok-vertical.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/youtube-banner-1@1x.webp" : {
+    "\/src\/images\/social\/youtube-anatomy.webp" : {
       "ft" : 8388608,
-      "iS" : 3372026,
+      "iS" : 986592,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/youtube-banner-1@1x.webp",
+      "oAP" : "\/src\/images\/social\/youtube-anatomy.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/youtube-banner-2@1x.webp" : {
+    "\/src\/images\/social\/youtube-banner-1.webp" : {
       "ft" : 8388608,
-      "iS" : 3337760,
+      "iS" : 3376274,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/youtube-banner-2@1x.webp",
+      "oAP" : "\/src\/images\/social\/youtube-banner-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/youtube-profile-photo@1x.webp" : {
+    "\/src\/images\/social\/youtube-banner-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 3341978,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-banner-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-profile-photo.webp" : {
       "ft" : 8388608,
       "iS" : 15048,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/youtube-profile-photo@1x.webp",
+      "oAP" : "\/src\/images\/social\/youtube-profile-photo.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/youtube-video-thumbnail-1@1x.webp" : {
+    "\/src\/images\/social\/youtube-video-thumbnail-1.webp" : {
       "ft" : 8388608,
-      "iS" : 895828,
+      "iS" : 902566,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-1@1x.webp",
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/youtube-video-thumbnail-2@1x.webp" : {
+    "\/src\/images\/social\/youtube-video-thumbnail-2.webp" : {
       "ft" : 8388608,
-      "iS" : 877402,
+      "iS" : 882286,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-2@1x.webp",
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/youtube-video-thumbnail-3@1x.webp" : {
+    "\/src\/images\/social\/youtube-video-thumbnail-3.webp" : {
       "ft" : 8388608,
-      "iS" : 844964,
+      "iS" : 850634,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-3@1x.webp",
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-3.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/images\/social\/youtube-video-thumbnail-4@1x.webp" : {
+    "\/src\/images\/social\/youtube-video-thumbnail-4.webp" : {
       "ft" : 8388608,
-      "iS" : 829172,
+      "iS" : 834938,
       "oA" : 0,
-      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-4@1x.webp",
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-4.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1324,6 +1579,25 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/src\/voice-and-tone.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/voice-and-tone.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     },
     "\/src\/web-app-manifest-192x192.png" : {
       "ft" : 32768,

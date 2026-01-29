@@ -340,19 +340,11 @@ font-size: var(--font-size-l);
 font-variation-settings: var(--font-bold-extended); }
 
 h3 {
-font-size: var(--font-size-m);
+font-size: var(--font-size-r);
 font-variation-settings: var(--font-bold-normal);
 text-transform: uppercase; }
 
-h4 {
-font-size: var(--font-size-r);
-font-variation-settings: var(--font-semibold-normal); }
-
-h5 {
-font-size: var(--font-size-r);
-font-variation-settings: var(--font-semibold-normal); }
-
-h6 {
+h4, h5, h6 {
 font-size: var(--font-size-r);
 font-variation-settings: var(--font-semibold-normal); }
 
@@ -432,8 +424,9 @@ QUOTE COMPONENTS
 */
 
 blockquote {
-margin: 0;
-padding: 0;
+border-inline-start: var(--border-width-r) solid var(--color-border);
+margin: 0 0 var(--spacing-m) 0;
+padding: 0 0 0 var(--spacing-m);
 position: relative; }
 
 :is(blockquote p, blockquote footer) { padding: 0; }
@@ -506,6 +499,9 @@ margin-inline-start: var(--spacing-r); }
 :is(ul[class*="alt-"], ol[class*="alt-"]) li:before {
 content: "";
 display: none; }
+
+:is(ul[class*="alt-"] li) {
+margin-block-end: var(--spacing-s); }
 
 /* Inline list variant */
 .alt-inline li { display: inline-block; }
