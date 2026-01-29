@@ -9,12 +9,31 @@
   ],
   "creatorBuild" : "34892",
   "files" : {
-    "\/dist\/about\/index.html" : {
+    "\/.eleventy.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/.eleventy-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/.eleventyignore" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/about\/index.html",
+      "oAP" : "\/.eleventyignore",
+      "oF" : 0
+    },
+    "\/.gitignore" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.gitignore",
       "oF" : 0
     },
     "\/dist\/admin\/config.yml" : {
@@ -55,198 +74,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dist\/blog\/category\/animation\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/category\/animation\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/category\/classic-cartoons\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/category\/classic-cartoons\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/el-kabong-1\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/el-kabong-1\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/el-kabong-2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/el-kabong-2\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/el-kabong-3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/el-kabong-3\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/el-kabong-4\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/el-kabong-4\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/el-kabong-5\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/el-kabong-5\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/NaN\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/NaN\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/page\/1\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/page\/1\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/post-1\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/post-1\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/tag\/cartoons\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/tag\/cartoons\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/tag\/hanna-barbera\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/tag\/hanna-barbera\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/tag\/quick-draw-mcgraw\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/tag\/quick-draw-mcgraw\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/test-post-1\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/test-post-1\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/test-post-2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/test-post-2\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/test-post-3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/test-post-3\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/test-post-4\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/test-post-4\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/test-post-5\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/test-post-5\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/blog\/undefined\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/blog\/undefined\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/board\/andy-clarke\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/board\/andy-clarke\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/board\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/board\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/contact\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/contact\/index.html",
-      "oF" : 0
-    },
     "\/dist\/css\/critical.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -259,67 +86,35 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/dist\/feed.xml" : {
+    "\/dist\/fonts\/aldgate-sans-vf.ttf" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/feed.xml",
+      "oAP" : "\/dist\/fonts\/aldgate-sans-vf.ttf",
       "oF" : 0
     },
-    "\/dist\/images\/e0lUkOxKXy-300.jpeg" : {
-      "ft" : 16384,
-      "iS" : 8384,
-      "jF" : 0,
+    "\/dist\/fonts\/aldgate-sans-vf.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/images\/e0lUkOxKXy-300.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "oAP" : "\/dist\/fonts\/aldgate-sans-vf.woff2",
+      "oF" : 0
     },
-    "\/dist\/images\/e0lUkOxKXy-300.webp" : {
-      "ft" : 8388608,
-      "iS" : 4940,
+    "\/dist\/home.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/images\/e0lUkOxKXy-300.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
+      "oAP" : "\/dist\/home.html",
+      "oF" : 0
     },
-    "\/dist\/images\/e0lUkOxKXy-600.jpeg" : {
-      "ft" : 16384,
-      "iS" : 18660,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/e0lUkOxKXy-600.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dist\/images\/e0lUkOxKXy-600.webp" : {
-      "ft" : 8388608,
-      "iS" : 9510,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/e0lUkOxKXy-600.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/dist\/images\/pig.png" : {
+    "\/dist\/images\/icon-512.png" : {
       "ft" : 32768,
-      "iS" : 45753,
+      "iS" : 28954,
       "oA" : 0,
-      "oAP" : "\/dist\/images\/pig.png",
+      "oAP" : "\/dist\/images\/icon-512.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -328,99 +123,288 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/dist\/images\/poo.png" : {
-      "ft" : 32768,
-      "iS" : 25623,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/poo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/dist\/images\/qea8i6km8p-300.jpeg" : {
-      "ft" : 16384,
-      "iS" : 5207,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/qea8i6km8p-300.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dist\/images\/qea8i6km8p-300.webp" : {
-      "ft" : 8388608,
-      "iS" : 2736,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/qea8i6km8p-300.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/dist\/images\/qea8i6km8p-600.jpeg" : {
-      "ft" : 16384,
-      "iS" : 11757,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/qea8i6km8p-600.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/dist\/images\/qea8i6km8p-600.webp" : {
-      "ft" : 8388608,
-      "iS" : 5408,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/qea8i6km8p-600.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/dist\/images\/tigerpng.png" : {
-      "ft" : 32768,
-      "iS" : 31310,
-      "oA" : 0,
-      "oAP" : "\/dist\/images\/tigerpng.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/dist\/images\/tmp-featured.svg" : {
+    "\/dist\/images\/icon-512.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/dist\/images\/tmp-featured.svg",
+      "oAP" : "\/dist\/images\/icon-512.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/dist\/images\/tmp-img.svg" : {
+    "\/dist\/images\/icon-512.webp" : {
+      "ft" : 8388608,
+      "iS" : 8762,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/icon-512.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/logo-inverted.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/dist\/images\/tmp-img.svg",
+      "oAP" : "\/dist\/images\/logo-inverted.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/dist\/images\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/images\/logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/dist\/images\/social\/instagram-landscape@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 506212,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-landscape@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-profile-photo@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 7758,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-profile-photo@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-square@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 851738,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-square@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-stories-reels-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1585326,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-stories-reels-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-stories-reels-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1570662,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-stories-reels-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/instagram-vertical@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1089448,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/instagram-vertical@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-landscape-ad@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1968246,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-landscape-ad@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-profile-photo@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 9316,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-profile-photo@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-square-ad@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 459696,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-square-ad@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-stories-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1808672,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-stories-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-stories-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1790318,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-stories-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/tiktok-vertical@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1767012,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/tiktok-vertical@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-banner-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 3372026,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-banner-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-banner-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 3337760,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-banner-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-profile-photo@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 15048,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-profile-photo@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-video-thumbnail-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 895828,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-video-thumbnail-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 877402,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-video-thumbnail-3@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 844964,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-3@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/social\/youtube-video-thumbnail-4@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 829172,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-4@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/thumbnail-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 771362,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/thumbnail-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/thumbnails\/thumbnail-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 771362,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/thumbnails\/thumbnail-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/dist\/images\/thumbnails\/tmp-thumbnail-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 771362,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/thumbnails\/tmp-thumbnail-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/dist\/index.html" : {
       "cB" : 0,
@@ -441,332 +425,52 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dist\/lexicon-featured\/index.html" : {
+    "\/dist\/thumbnails\/category\/instagram\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/lexicon-featured\/index.html",
+      "oAP" : "\/dist\/thumbnails\/category\/instagram\/index.html",
       "oF" : 0
     },
-    "\/dist\/lexicon\/baba-looey\/index.html" : {
+    "\/dist\/thumbnails\/category\/thumbnails\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/lexicon\/baba-looey\/index.html",
+      "oAP" : "\/dist\/thumbnails\/category\/thumbnails\/index.html",
       "oF" : 0
     },
-    "\/dist\/lexicon\/el-kabongo\/index.html" : {
+    "\/dist\/thumbnails\/category\/videos\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/lexicon\/el-kabongo\/index.html",
+      "oAP" : "\/dist\/thumbnails\/category\/videos\/index.html",
       "oF" : 0
     },
-    "\/dist\/lexicon\/index.html" : {
+    "\/dist\/thumbnails\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/lexicon\/index.html",
+      "oAP" : "\/dist\/thumbnails\/index.html",
       "oF" : 0
     },
-    "\/dist\/lexicon\/quick-draw\/index.html" : {
+    "\/dist\/thumbnails\/tag\/vimeo\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/lexicon\/quick-draw\/index.html",
+      "oAP" : "\/dist\/thumbnails\/tag\/vimeo\/index.html",
       "oF" : 0
     },
-    "\/dist\/partners\/index.html" : {
+    "\/dist\/thumbnails\/tag\/youtube\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/partners\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/privacy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/privacy\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/another-book\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/another-book\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/book\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/book\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/category\/articles\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/category\/articles\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/category\/books\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/category\/books\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/category\/design\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/category\/design\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/category\/development\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/category\/development\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/search\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/search\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/tag\/design-systems\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/tag\/design-systems\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/tag\/frontend\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/tag\/frontend\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/tag\/javascript\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/tag\/javascript\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/resources\/tag\/web\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/resources\/tag\/web\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/board\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/board\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/design-systems\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/design-systems\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/frontend\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/frontend\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/play\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/play\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/resources\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/resources\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/resourcescategory\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/resourcescategory\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/resourcestag\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/resourcestag\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/team\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/team\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/tag\/work\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/tag\/work\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/alex-clarke copy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/alex-clarke copy\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/alex-clarke\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/alex-clarke\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/andy-clarke copy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/andy-clarke copy\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/andy-clarke\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/andy-clarke\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/jon-hicks copy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/jon-hicks copy\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/jon-hicks\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/jon-hicks\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/marcus-lillington\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/marcus-lillington\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/paul-boag\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/paul-boag\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/sue-clarke copy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/sue-clarke copy\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/team\/sue-clarke\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/team\/sue-clarke\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/terms-and-conditions\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/terms-and-conditions\/index.html",
-      "oF" : 0
-    },
-    "\/dist\/terms\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/terms\/index.html",
+      "oAP" : "\/dist\/thumbnails\/tag\/youtube\/index.html",
       "oF" : 0
     },
     "\/gulpfile.js" : {
@@ -891,6 +595,30 @@
       "oAP" : "\/src\/_includes\/layouts\/home.html",
       "oF" : 0
     },
+    "\/src\/_includes\/layouts\/social.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/_includes\/layouts\/social.html",
+      "oF" : 0
+    },
+    "\/src\/_includes\/layouts\/style-guide.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/_includes\/layouts\/style-guide.html",
+      "oF" : 0
+    },
+    "\/src\/_includes\/layouts\/thumbnails.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/_includes\/layouts\/thumbnails.html",
+      "oF" : 0
+    },
     "\/src\/_includes\/partials\/footer.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -921,6 +649,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/src\/_includes\/partials\/pagination.html",
+      "oF" : 0
+    },
+    "\/src\/_includes\/partials\/thumbnails-display.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/_includes\/partials\/thumbnails-display.html",
       "oF" : 0
     },
     "\/src\/admin.njk" : {
@@ -1125,11 +861,231 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/src\/images\/social\/instagram-landscape@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 506212,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/instagram-landscape@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/instagram-profile-photo@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 7758,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/instagram-profile-photo@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/instagram-square@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 851738,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/instagram-square@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/instagram-stories-reels-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1585326,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/instagram-stories-reels-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/instagram-stories-reels-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1570662,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/instagram-stories-reels-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/instagram-vertical@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1089448,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/instagram-vertical@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/tiktok-landscape-ad@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1968246,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/tiktok-landscape-ad@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/tiktok-profile-photo@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 9316,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/tiktok-profile-photo@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/tiktok-square-ad@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 459696,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/tiktok-square-ad@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/tiktok-stories-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1808672,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/tiktok-stories-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/tiktok-stories-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1790318,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/tiktok-stories-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/tiktok-vertical@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 1767012,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/tiktok-vertical@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-banner-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 3372026,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-banner-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-banner-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 3337760,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-banner-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-profile-photo@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 15048,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-profile-photo@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-video-thumbnail-1@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 895828,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-1@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-video-thumbnail-2@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 877402,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-2@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-video-thumbnail-3@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 844964,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-3@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/social\/youtube-video-thumbnail-4@1x.webp" : {
+      "ft" : 8388608,
+      "iS" : 829172,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/social\/youtube-video-thumbnail-4@1x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/src\/images\/thumbnail-1.webp" : {
       "ft" : 8388608,
       "iS" : 771362,
       "oA" : 0,
       "oAP" : "\/src\/images\/thumbnail-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/src\/images\/thumbnails\/tmp-thumbnail-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 771362,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/thumbnails\/tmp-thumbnail-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1174,14 +1130,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/src\/partials\/_variables.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/src\/partials\/_variables.html",
-      "oF" : 0
-    },
     "\/src\/site.webmanifest" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1190,7 +1138,7 @@
       "oAP" : "\/src\/site.webmanifest",
       "oF" : 0
     },
-    "\/src\/style-guide.md" : {
+    "\/src\/social.md" : {
       "cB" : 0,
       "cS" : 0,
       "eF" : 1,
@@ -1200,7 +1148,7 @@
       "ft" : 4096,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/src\/style-guide.html",
+      "oAP" : "\/src\/social.html",
       "oF" : 0,
       "oFM" : 0,
       "oS" : 0,
@@ -1208,6 +1156,163 @@
       "pME" : 1,
       "rFN" : 0,
       "uCM" : 0
+    },
+    "\/src\/thumbnails-categories.njk" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails-categories.njk",
+      "oF" : 0
+    },
+    "\/src\/thumbnails-tags.njk" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails-tags.njk",
+      "oF" : 0
+    },
+    "\/src\/thumbnails.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/thumbnails\/thumbnail-1.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails\/thumbnail-1.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/thumbnails\/thumbnail-2.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails\/thumbnail-2.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/thumbnails\/thumbnail-3.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails\/thumbnail-3.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/thumbnails\/thumbnail-4.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails\/thumbnail-4.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/thumbnails\/thumbnail-5.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails\/thumbnail-5.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/thumbnails\/thumbnail-6.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/thumbnails\/thumbnail-6.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/thumbnails\/thumbnails.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/src\/thumbnails\/thumbnails-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
     },
     "\/src\/utils\/sort-by-display-order.js" : {
       "bF" : 0,

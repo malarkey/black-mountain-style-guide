@@ -279,7 +279,7 @@ font-weight: normal;
 line-height: var(--lineheight-r);
 margin: 0 auto;
 max-width: var(--max-width);
-padding: var(--spacing-s); }
+padding: var(--spacing-m); }
 
 /* Enhanced ligature support */
 @supports (font-variant-ligatures: common-ligatures) {
@@ -1128,6 +1128,11 @@ align-items: center;
 display: grid;
 gap: var(--spacing-m);
 grid-template-columns: 20ch 1fr; }
+
+[data-content="sn-social"] {
+display: grid;
+gap: var(--spacing-m);
+grid-template-columns: repeat(4, 1fr); }
 
 [data-content="sn-thumbnails"] {
 display: grid;
