@@ -47,11 +47,11 @@
 * Light theme with accent colors for visual hierarchy
 */
 
---color-primary-default: #ec9215;
---color-primary-light: #F0A844;
---color-primary-lightest: #F4BE73;
---color-primary-dark: #BD7511;
---color-primary-darkest: #8E580D;
+--color-primary-default: #f2800f;
+--color-primary-light: #f59a3f;
+--color-primary-lightest: #f7b370;
+--color-primary-dark: #c3670b;
+--color-primary-darkest: #934d08;
 
 --color-secondary-default: #e87811;
 --color-secondary-light: #ed9341;
