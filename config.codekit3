@@ -1347,14 +1347,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/src\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/src\/index.html",
-      "oF" : 0
-    },
     "\/src\/index.md" : {
       "cB" : 0,
       "cS" : 0,
@@ -1384,6 +1376,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/src\/old-index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/old-index.html",
+      "oF" : 0
     },
     "\/src\/site.webmanifest" : {
       "cB" : 0,

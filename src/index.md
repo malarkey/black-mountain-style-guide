@@ -14,7 +14,7 @@ permalink: /index.html
 <div>
 <h3>Logo</h3>
 
-<p>The logo is the masthead of our identity so the ways we use it matter, although the implementation of our logomark varies according to where it’s presented, the concept remains.</p>
+<p>Our logo is the masthead of our identity so the ways we use it matter, although the implementation of our logomark varies according to where it’s presented, the concept remains.</p>
 
 <figure>
 <img src="/images/logo.svg" alt="">
@@ -148,7 +148,7 @@ permalink: /index.html
 <div class="sn-colour-chip-large" style="background-color: var(--color-secondary-default)"></div>
 <figcaption>
 <span>Secondary colour</span>
-<span class="sn-colour-hex">#e87811</span></figcaption>
+<span class="sn-colour-hex">#f2580c</span></figcaption>
 </figure>
 
 <figure class="sn-colour">
@@ -158,9 +158,9 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Secondary colours (light)</span>
-<span class="sn-colour-hex">#e87811</span>
-<span class="sn-colour-hex">#f1ae70</span>
-<span class="sn-colour-hex">#ed9341</span>
+<span class="sn-colour-hex">#f2580c</span>
+<span class="sn-colour-hex">#f5793c</span>
+<span class="sn-colour-hex">#f89a6c</span>
 </figcaption>
 </figure>
 
@@ -171,9 +171,9 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Secondary colours (dark)</span>
-<span class="sn-colour-hex">#e87811</span>
-<span class="sn-colour-hex">#ba600e</span>
-<span class="sn-colour-hex">#8b480a</span>
+<span class="sn-colour-hex">#f2580c</span>
+<span class="sn-colour-hex">#da4f0b</span>
+<span class="sn-colour-hex">#c1460a</span>
 </figcaption>
 </figure>
 
@@ -243,7 +243,7 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Link colour</span>
-<span class="sn-colour-hex">#ec9215</span>
+<span class="sn-colour-hex">#f2800f</span>
 </figcaption>
 </figure>
 

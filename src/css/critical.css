@@ -1,7 +1,7 @@
 ﻿:root {
 
 /*
-* TYPOGRAPHY SYSTEM
+*THE TYPOGRAPHY SYSTEM
 * Uses fluid type scaling for responsive font sizes across viewports
 * Generated via: https://www.fluid-type-scale.com/
 */
@@ -53,11 +53,11 @@
 --color-primary-dark: #c3670b;
 --color-primary-darkest: #934d08;
 
---color-secondary-default: #e87811;
---color-secondary-light: #ed9341;
---color-secondary-lightest: #f1ae70;
---color-secondary-dark: #ba600e;
---color-secondary-darkest: #8b480a;
+--color-secondary-default: #f2580c;
+--color-secondary-light: #f5793c;
+--color-secondary-lightest: #f89a6c;
+--color-secondary-dark: #da4f0b;
+--color-secondary-darkest: #c1460a;
 
 --color-accent-default: #2998A1;
 --color-accent-light: #4BB4BD;
