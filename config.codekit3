@@ -110,6 +110,17 @@
       "oAP" : "\/dist\/home.html",
       "oF" : 0
     },
+    "\/dist\/images\/banner-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 1475540,
+      "oA" : 0,
+      "oAP" : "\/dist\/images\/banner-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/dist\/images\/icon-512.png" : {
       "ft" : 32768,
       "iS" : 28954,
@@ -166,7 +177,7 @@
     },
     "\/dist\/images\/social\/instagram-landscape.webp" : {
       "ft" : 8388608,
-      "iS" : 506212,
+      "iS" : 505074,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-landscape.webp",
       "oF" : 0,
@@ -188,7 +199,7 @@
     },
     "\/dist\/images\/social\/instagram-profile-photo.webp" : {
       "ft" : 8388608,
-      "iS" : 7758,
+      "iS" : 7692,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-profile-photo.webp",
       "oF" : 0,
@@ -210,7 +221,7 @@
     },
     "\/dist\/images\/social\/instagram-square.webp" : {
       "ft" : 8388608,
-      "iS" : 851738,
+      "iS" : 851844,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-square.webp",
       "oF" : 0,
@@ -232,7 +243,7 @@
     },
     "\/dist\/images\/social\/instagram-stories-reels-1.webp" : {
       "ft" : 8388608,
-      "iS" : 1585326,
+      "iS" : 1586516,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-stories-reels-1.webp",
       "oF" : 0,
@@ -254,7 +265,7 @@
     },
     "\/dist\/images\/social\/instagram-stories-reels-2.webp" : {
       "ft" : 8388608,
-      "iS" : 1570662,
+      "iS" : 1570082,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-stories-reels-2.webp",
       "oF" : 0,
@@ -276,7 +287,7 @@
     },
     "\/dist\/images\/social\/instagram-vertical.webp" : {
       "ft" : 8388608,
-      "iS" : 1089448,
+      "iS" : 1088548,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/instagram-vertical.webp",
       "oF" : 0,
@@ -298,7 +309,7 @@
     },
     "\/dist\/images\/social\/tiktok-landscape-ad.webp" : {
       "ft" : 8388608,
-      "iS" : 1968246,
+      "iS" : 1969214,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-landscape-ad.webp",
       "oF" : 0,
@@ -320,7 +331,7 @@
     },
     "\/dist\/images\/social\/tiktok-profile-photo.webp" : {
       "ft" : 8388608,
-      "iS" : 9316,
+      "iS" : 9068,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-profile-photo.webp",
       "oF" : 0,
@@ -342,7 +353,7 @@
     },
     "\/dist\/images\/social\/tiktok-square-ad.webp" : {
       "ft" : 8388608,
-      "iS" : 432476,
+      "iS" : 427854,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-square-ad.webp",
       "oF" : 0,
@@ -364,7 +375,7 @@
     },
     "\/dist\/images\/social\/tiktok-stories-1.webp" : {
       "ft" : 8388608,
-      "iS" : 1808672,
+      "iS" : 1809042,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-stories-1.webp",
       "oF" : 0,
@@ -386,7 +397,7 @@
     },
     "\/dist\/images\/social\/tiktok-stories-2.webp" : {
       "ft" : 8388608,
-      "iS" : 1790318,
+      "iS" : 1790850,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-stories-2.webp",
       "oF" : 0,
@@ -408,7 +419,7 @@
     },
     "\/dist\/images\/social\/tiktok-vertical.webp" : {
       "ft" : 8388608,
-      "iS" : 1767012,
+      "iS" : 1768078,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/tiktok-vertical.webp",
       "oF" : 0,
@@ -430,7 +441,7 @@
     },
     "\/dist\/images\/social\/youtube-anatomy.webp" : {
       "ft" : 8388608,
-      "iS" : 986592,
+      "iS" : 984870,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-anatomy.webp",
       "oF" : 0,
@@ -485,7 +496,7 @@
     },
     "\/dist\/images\/social\/youtube-profile-photo.webp" : {
       "ft" : 8388608,
-      "iS" : 15048,
+      "iS" : 14912,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-profile-photo.webp",
       "oF" : 0,
@@ -507,7 +518,7 @@
     },
     "\/dist\/images\/social\/youtube-video-thumbnail-1.webp" : {
       "ft" : 8388608,
-      "iS" : 902566,
+      "iS" : 901414,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-1.webp",
       "oF" : 0,
@@ -529,7 +540,7 @@
     },
     "\/dist\/images\/social\/youtube-video-thumbnail-2.webp" : {
       "ft" : 8388608,
-      "iS" : 882286,
+      "iS" : 882004,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-2.webp",
       "oF" : 0,
@@ -551,7 +562,7 @@
     },
     "\/dist\/images\/social\/youtube-video-thumbnail-3.webp" : {
       "ft" : 8388608,
-      "iS" : 850634,
+      "iS" : 850002,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-3.webp",
       "oF" : 0,
@@ -573,7 +584,7 @@
     },
     "\/dist\/images\/social\/youtube-video-thumbnail-4.webp" : {
       "ft" : 8388608,
-      "iS" : 834938,
+      "iS" : 835042,
       "oA" : 0,
       "oAP" : "\/dist\/images\/social\/youtube-video-thumbnail-4.webp",
       "oF" : 0,
@@ -1050,6 +1061,17 @@
       "oA" : 0,
       "oAP" : "\/src\/fonts\/aldgate-sans-vf.woff2",
       "oF" : 0
+    },
+    "\/src\/images\/banner-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 1475540,
+      "oA" : 0,
+      "oAP" : "\/src\/images\/banner-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/src\/images\/icon-512.png" : {
       "ft" : 32768,
