@@ -1,0 +1,47 @@
+{% set assetHash = global.random() %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+{% include "partials/head.html" %}
+
+<body id="{{ site.siteID }}">
+
+{% include "partials/header.html" %}
+
+<div id="container">
+
+<aside>
+
+<nav>
+<ul>
+<li><a href="#sn-branding">Branding</a></li>
+<li><a href="#sn-colour">Colour</a></li>
+<li><a href="#sn-media">Media</a></li>
+</ul>
+
+<hr>
+
+<h3>Channels</h3>
+
+<ul class="alt-">
+<li><a href="#section-instagram">Instagram</a></li>
+<li><a href="#section-tiktok">TikTok</a></li>
+<li><a href="#section-youtube">YouTube</a></li>
+</ul>
+</nav>
+</aside>
+
+<main>
+<img src="/images/banner-2.webp" alt="">
+{% block content %}
+{{ content | safe }}
+{% endblock %}
+</main>
+
+</div><!-- container -->
+
+{% include "partials/footer.html" %}
+</body>
+
+</html>
