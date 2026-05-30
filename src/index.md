@@ -20,7 +20,7 @@ permalink: /index.html
 <img src="/images/logo.svg" alt="">
 </figure>
 
-<p><a href="javascript:void(0)" class="btn">Download logo</a></p>
+<p><a href="/dl/logos.zip" class="btn">Download logos</a></p>
 </div><!-- one -->
 
 <div>
@@ -30,7 +30,6 @@ permalink: /index.html
 <img src="/images/logo-inverted.svg" alt="">
 </figure>
 
-<p><a href="javascript:void(0)" class="btn">Download inverted logo</a></p>
 </div><!-- two -->
 
 </div><!-- layout -->
