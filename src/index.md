@@ -20,7 +20,7 @@ permalink: /index.html
 <img src="/images/logo.svg" alt="">
 </figure>
 
-<p><a href="/dl/logos.zip" class="btn">Download logos</a></p>
+<p><a href="/images/logos.zip" class="btn">Download logos</a></p>
 </div><!-- one -->
 
 <div>
@@ -57,7 +57,7 @@ permalink: /index.html
 
 </div><!-- layout -->
 
-<p><a href="javascript:void(0)" class="btn">Download favicons</a></p>
+<p><a href="/images/favicon.zip" class="btn">Download favicons</a></p>
 </div><!-- one -->
 
 <div>
@@ -89,7 +89,7 @@ permalink: /index.html
 
 </div><!-- layout -->
 
-<p><a href="javascript:void(0)" class="btn">Download icons</a></p>
+<p><a href="/images/favicon.zip" class="btn">Download icons</a></p>
 </div><!-- two -->
 
 </div><!-- layout -->
