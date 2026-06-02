@@ -154,48 +154,40 @@ permalink: /14-day.html
 
 <h3 class="sn-label">Accent colour</h3>
 
-<style>
-:root {
---color-accent-default: #db5799;
---color-accent-light: #edaacc;
---color-accent-lightest: #f6d4e5;
---color-accent-dark: #a82466;
---color-accent-darkest: #691640;
-}
-</style>
+
 
 <div data-layout="flex">
 
 <figure class="sn-colour">
-<div class="sn-colour-chip-large" style="background-color: var(--color-accent-default)"></div>
+<div class="sn-colour-chip-large" style="background-color: var(--color-secondary-default)"></div>
 <figcaption>
 <span>Accent colour</span>
-<span class="sn-colour-hex">#db5799</span></figcaption>
+<span class="sn-colour-hex">#f2580c</span></figcaption>
 </figure>
 
 <figure class="sn-colour">
-<div class="sn-colour-chip-large" style="background-color: var(--color-accent-default)">
-<div class="sn-colour-chip-small" style="background-color: var(--color-accent-lightest)"></div>
-<div class="sn-colour-chip-small" style="background-color: var(--color-accent-light)"></div>
+<div class="sn-colour-chip-large" style="background-color: var(--color-secondary-default)">
+<div class="sn-colour-chip-small" style="background-color: var(--color-secondary-lightest)"></div>
+<div class="sn-colour-chip-small" style="background-color: var(--color-secondary-light)"></div>
 </div>
 <figcaption>
-<span>Accent colour (light)</span>
-<span class="sn-colour-hex">#db5799</span>
-<span class="sn-colour-hex">#f6d4e5</span>
-<span class="sn-colour-hex">#edaacc</span>
+<span>Accent colours (light)</span>
+<span class="sn-colour-hex">#f2580c</span>
+<span class="sn-colour-hex">#f5793c</span>
+<span class="sn-colour-hex">#f89a6c</span>
 </figcaption>
 </figure>
 
 <figure class="sn-colour">
-<div class="sn-colour-chip-large" style="background-color: var(--color-accent-default)">
-<div class="sn-colour-chip-small" style="background-color: var(--color-accent-darkest)"></div>
-<div class="sn-colour-chip-small" style="background-color: var(--color-accent-dark)"></div>
+<div class="sn-colour-chip-large" style="background-color: var(--color-secondary-default)">
+<div class="sn-colour-chip-small" style="background-color: var(--color-secondary-darkest)"></div>
+<div class="sn-colour-chip-small" style="background-color: var(--color-secondary-dark)"></div>
 </div>
 <figcaption>
-<span>Accent colour (dark)</span>
-<span class="sn-colour-hex">#db5799</span>
-<span class="sn-colour-hex">#691640</span>
-<span class="sn-colour-hex">#a82466</span>
+<span>Accent colours (dark)</span>
+<span class="sn-colour-hex">#f2580c</span>
+<span class="sn-colour-hex">#da4f0b</span>
+<span class="sn-colour-hex">#c1460a</span>
 </figcaption>
 </figure>
 
