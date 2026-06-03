@@ -40,6 +40,32 @@ permalink: /14-day.html
 <div data-layout="flex">
 
 <div>
+<h3>Logo variant (basics)</h3>
+
+<figure>
+<img src="/images/14-day-beekeeper/logo-basic.svg" alt="">
+</figure>
+
+<p><a href="/images/14-day-beekeeper/logo-basic.svg" class="btn">Download logo</a></p>
+</div><!-- one -->
+
+<div>
+<h3>Inverted logo</h3>
+
+<figure style="background-color:#000; padding:var(--spacing-s);">
+<img src="/images/14-day-beekeeper/logo-basic-inverted.svg" alt="">
+</figure>
+
+<p><a href="/images/14-day-beekeeper/logo-basic-inverted.svg" class="btn">Download inverted logo</a></p>
+</div><!-- two -->
+
+</div><!-- layout -->
+
+<hr>
+
+<div data-layout="flex">
+
+<div>
 <h3>Branded favicon</h3>
 
 <p>Elements of our logo are recognisable even in this, our smallest branded element.</p>
